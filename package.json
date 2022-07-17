@@ -1,0 +1,28 @@
+{
+  "name": "discord.js-upgrader",
+  "author": "MohammedMMc#1234",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./src/index.js",
+  "description": "The best library to upgrade your discord client",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedMMC/discord.js-upgrader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MohammedMMC/discord.js-upgrader/issues"
+  },
+  "homepage": "https://github.com/MohammedMMC/discord.js-upgrader#readme",
+  "keywords": [
+    "Discord",
+    "discord.js",
+    "discord.js-upgrader",
+    "discord.js upgrader",
+    "discord upgrader"
+  ]
+}
