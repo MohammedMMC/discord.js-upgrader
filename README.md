@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div>
     <h1>Discord.JS UPGRADER V1</h1>
     <div>
         <img src="https://img.shields.io/npm/v/discord.js-upgrader?maxAge=3600" />
@@ -83,9 +83,9 @@ client.on("boostDelete", (member) => { // boostDelete event returns GuildMember
   "bio": "👋 **Hi there**, I'm **Mohammed**\n<:VerifiedBotDeveloper:745306444534120453> I'm **Full-Stack** Developer\n**<:devlist:876121148990062642> DevList: https://dlist.me/mmc\n**\nhttps://i8.ae/necDO",
   "bot": false,
   "system": false,
-  "flags": UserFlags { "bitfield": 64 },
+  "flags": { "bitfield": 64 },
   "username": "MohammedMMc",
-  "discriminator": '1234',
+  "discriminator": "1234",
   "avatar": "a_a49dd149a87fd725bc7c539d586b3d3f",
   "banner": "ed40a0a6016c1d69fc96b356eb42b6d3",
   "accentColor": 1991925
