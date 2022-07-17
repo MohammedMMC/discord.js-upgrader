@@ -1,5 +1,5 @@
 <div>
-    <h1>Discord.JS UPGRADER V1</h1>
+    <h1>Discord.JS UPGRADER v1.0.1</h1>
     <div>
         <img src="https://img.shields.io/npm/v/discord.js-upgrader?maxAge=3600" />
         <img src="https://img.shields.io/npm/dt/discord.js-upgrader?maxAge=3600" />

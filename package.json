@@ -1,7 +1,7 @@
 {
   "name": "discord.js-upgrader",
   "author": "MohammedMMc#1234",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "./src/index.js",
   "description": "The best library to upgrade your discord client",
